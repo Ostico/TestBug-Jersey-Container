@@ -62,12 +62,6 @@
             <artifactId>jersey-container-servlet-core</artifactId>
             <version>${jersey.version}</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson -->
-        <dependency>
-            <groupId>org.glassfish.jersey.media</groupId>
-            <artifactId>jersey-media-json-jackson</artifactId>
-            <version>${jersey.version}</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2 -->
         <dependency>
             <groupId>org.glassfish.jersey.inject</groupId>
